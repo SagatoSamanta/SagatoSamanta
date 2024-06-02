@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, C programs and Full Stack
 - 💞️ I’m looking to collaborate on frontend & java projects 
 - 📫 Reach me on Email : samantasagato@gmail.com
-                & Linkedin: https://www.linkedin.com/in/sagato-samanta-27048b226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+                & Linkedin: https://www.linkedin.com/in/sagato-samanta-27048b226/
 
 <!---
 SagatoSamanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
